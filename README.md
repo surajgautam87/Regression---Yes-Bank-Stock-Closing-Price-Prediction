@@ -1,6 +1,5 @@
 # Yes Bank's Closing Price Prediction by Regression
 
-![image](https://github.com/nikhilbordekar/Yes-Bank-s-Stock-Closing-Price-Prediction-by-Regression/assets/121897260/70df14a1-efac-4591-80c6-91ea541820a3)
 
 
 **Overview**
